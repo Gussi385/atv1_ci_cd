@@ -26,7 +26,7 @@ jobs:
 
       - name: Testes unitarios
         run: npm test    
-      #PARTE 1 - Até aqui
+
 
       #PARTE 2 - A partir daqui (descomentar)
       - name: Checkout do código
